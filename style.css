@@ -9,7 +9,6 @@
 
 .carousel-item {
     padding: 20px 40px;
-    
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
@@ -23,3 +22,43 @@
     color: white;
 }
 
+.cat1, .cat2, .cat3 {
+    padding: 10px 5px;
+    color: white;
+    border-radius: 15px;
+}
+.cat1 {
+    background-color: orange;  
+}
+
+.cat2 {
+    background-color: blueviolet;   
+}
+
+.cat3 {
+    background-color: chartreuse;
+}
+
+.category img {
+    width: 100px;
+}
+
+#subscribe {
+    height: 300px;
+}
+
+#subscribe h3, h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#subscribe h6 {
+    color: gray;
+}
+
+.form-control {
+    margin-bottom: 5px;
+}
+
+footer {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
